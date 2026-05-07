@@ -1,0 +1,1 @@
+comandos git add - git commit -m - git push - mkdir - cd - ls

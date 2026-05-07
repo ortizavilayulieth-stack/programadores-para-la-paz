@@ -1,0 +1,1 @@
+Es impportante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto ademas le permite trabajar de manera más rapida, organizada y eficiente dentro de un proyecto
