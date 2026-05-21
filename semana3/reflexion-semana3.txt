@@ -1,0 +1,1 @@
+es importante que los proyectos de software mantengan un registro de cambio permite organizar, controlar y proteger el trabajo realizado por los desarrolladores,ademas permite registrar cada cambio realizado en los archivos lo que nos permite saber quien modifico, que se modifico y cuando lo hizo

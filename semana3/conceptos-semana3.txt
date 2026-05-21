@@ -1,0 +1,1 @@
+repositorio: es el lugar donde se guarda y se organiza un proyecto de programación junto con todos sus archivos, cambios e historias Commit: Es el comando que guarda los cambios realizados en el proyecto con un mensaje descriptivo Push: Es el comando que envia los cambios guardados localmente al repositorio remoto en internet github
