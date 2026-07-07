@@ -1,0 +1,9 @@
+Crear el registro de solicitudes o reportes comunitarios.
+¿Por qué es importante? Porque permite que los usuarios comuniquen necesidades y problemas de la comunidad, siendo la función principal de la plataforma.
+Configurar el registro e identificación de usuarios.
+¿Por qué es importante? Porque ayuda a controlar el acceso y proteger la información de la plataforma.
+Definición simple de terminado:
+Una tarea está “terminada” cuando:
+Funciona correctamente.
+Fue probada y no presenta errores importantes.
+Quedó registrada y documentada en el proyecto

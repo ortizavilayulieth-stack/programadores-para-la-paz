@@ -1,0 +1,5 @@
+Cuando un usuario registra un nuevo reporte o solicitud en la plataforma comunitaria.
+Mensaje que se enviaría a Telegram:
+“Nuevo reporte comunitario registrado. Se requiere revisión y seguimiento.”
+Información que no debería enviarse por seguridad:
+No se deben enviar datos personales sensibles como número de identificación, dirección exacta, teléfonos privados, contraseñas o información confidencial de los usuarios

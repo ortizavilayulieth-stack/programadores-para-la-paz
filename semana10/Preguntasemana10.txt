@@ -1,0 +1,1 @@
+pregunta1 = B pregunta2 =B Pregunta3=B Pregunta4= B

@@ -1,0 +1,5 @@
+Como ciudadano, quiero registrar una solicitud o reporte comunitario, para informar situaciones que necesitan atención.
+Como líder comunitario, quiero consultar los reportes realizados, para hacer seguimiento a las necesidades de la comunidad.
+Como usuario, quiero recibir notificaciones sobre el estado de mis reportes, para conocer los avances de las soluciones.
+Como administrador, quiero gestionar los usuarios y permisos de acceso, para proteger la información de la plataforma.
+Como miembro de la comunidad, quiero ver información organizada sobre las actividades realizadas, para participar y ejercer control social
