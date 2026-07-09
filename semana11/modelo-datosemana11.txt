@@ -1,0 +1,6 @@
+Entidad 1: Causa
+Campos principales: ID, título, descripción, categoría, fecha de creación, estado y usuario responsable.
+Propósito de la información: Registrar las necesidades, problemas o iniciativas de la comunidad para facilitar su seguimiento y solución.
+Entidad 2: Apoyo
+Campos principales: ID, nombre del colaborador, causa asociada, tipo de apoyo (económico, materiales o voluntariado), fecha y estado del apoyo.
+Propósito de la información: Registrar los aportes realizados por personas o entidades para conocer el apoyo recibido por cada causa y llevar un control de las contribuciones

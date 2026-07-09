@@ -1,0 +1,4 @@
+ pregunta1 ✅ 2. Un sistema que permite almacenar y consultar información estructurada.
+preguta2 Crear, leer, actualizar y eliminar dato
+✅ Para evitar riesgos de privacidad o uso indebido de la información.
+Pregunta 4
