@@ -1,0 +1,5 @@
+La comunidad selecciona una causa o crea una nueva petición.
+Las personas registran su apoyo con unos pocos clics.
+El sistema almacena la información de forma segura.
+Se genera automáticamente un documento PDF con la petición formal.
+Se envía una notificación a Telegram o a los responsables para dar seguimiento a la petición

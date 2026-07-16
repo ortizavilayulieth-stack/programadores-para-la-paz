@@ -1,0 +1,5 @@
+Una persona registra un nuevo apoyo a una causa en la plataforma.
+El sistema detecta ese nuevo registro.
+n8n procesa automáticamente el evento.
+n8n envía un mensaje por Telegram indicando que se recibió un nuevo apoyo.
+Los responsables reciben la notificación y pueden dar seguimiento a la petición

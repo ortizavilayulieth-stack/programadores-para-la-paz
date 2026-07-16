@@ -1,0 +1,2 @@
+Causa: almacena la información de la petición, como el título, la descripción, la fecha de creación y el estado.
+Apoyo: registra a las personas que apoyan la causa, incluyendo su nombre (o identificador), la fecha del apoyo y la causa a la que pertenece
